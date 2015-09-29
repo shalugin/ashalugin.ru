@@ -1,0 +1,23 @@
+{
+  "name": "ashalugin.ru",
+  "version": "1.0.0",
+  "description": "ashalugin.ru site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shalugin/ashalugin.ru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalugin/ashalugin.ru/issues"
+  },
+  "homepage": "https://github.com/shalugin/ashalugin.ru",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-htmlmin": "^1.1.4"
+  }
+}
